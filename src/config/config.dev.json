@@ -1,0 +1,20 @@
+{
+  "db": [],
+  "server": {
+    "host": "192.168.1.77",
+    "port": 1337
+  },
+  "swagger": {
+    "info": {
+      "title": "Manager backend",
+      "version": "7.7.7"
+    },
+    "tags":[{
+      "name":"API",
+      "description":"Все команды"
+    },{
+      "name":"user",
+      "description":"API запросы пользователя"
+    }]
+  }
+}
